@@ -5,7 +5,7 @@
 
 <h2>Projects</h2>
 <p>Through the Movies project, I developed skills in creating external links and linking to other pages</p>
-
+<p>In the Display project, I gained valuable experience in using box functions like padding, margin, and border to create a clean and organized layout for a web page.</p>
 <h2>Extensions used in this project</h2>
 
 <ul>
